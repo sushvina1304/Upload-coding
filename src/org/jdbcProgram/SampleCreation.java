@@ -43,6 +43,7 @@ public class SampleCreation {
 		}
 		System.out.println("successfully pushing the code");
 		System.out.println("pushing code to own branch");
+		System.out.println("sushvina pushing code without update the master code..occurring conflict");
 
 	}
 
